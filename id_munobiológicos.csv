@@ -1,0 +1,86 @@
+Imunobiologicos;id_munobiologicos
+BCG (BCG);1
+BCG - Hanseníase (BCG);2
+Febre Amarela (FA);3
+Febre Tifóide (FT);4
+Haemophilus influenzae tipo b (Hib);5
+Hepatite A (HA);6
+Hepatite B (HB);7
+Hepatite B não soroconversão;8
+Influenza (INF);9
+Influenza (Campanha) (INF);10
+Influenza (Gestantes) (INF);11
+Influenza A - H1N1;12
+Influenza A - H1N1 (gestantes);13
+Meningococo A/C (MnAC);14
+Meningococo B/C (MnBC);15
+Raiva Humana;16
+Raiva - Cultivo Celular/Diplóide (RC);17
+Raiva - Cultivo Celular/Vero (RV);18
+Raiva - Cultivo Celular/Embrionário (RG);19
+Rubéola;20
+Sarampo;21
+Varicela;22
+Dupla Adulto (dT);23
+Dupla Infantil (DT);24
+Dupla Viral (rotina) (SR);25
+Dupla Viral (mulheres idade fértil) (SR);26
+Dupla Viral (mulheres idade fértil campanha) (SR);27
+Dupla Viral (homens) (SR);28
+Dupla Viral (homens campanha) (SR);29
+Hexavalente (HX);30
+Poliomielite inativada (VIP);31
+Meningocócica Conjugada - C (MncC);32
+Oral Poliomielite (VOP);33
+Oral Poliomielite 1ª etapa campanha  (VOP);34
+Oral Poliomielite 2ª etapa campanha  (VOP);35
+Oral de Rotavírus Humano (VORH);36
+Pentavalente (DTP+HB+Hib) (PENTA);37
+Pneumocócica 10valente;38
+Pneumocócica Conjugada 7 Valente (Pnc7);39
+Pneumocócica Polissacarídica 23 Valente (Pn23);40
+Pneumocócica 13 valente;41
+Tetravalente (DTP/Hib) (TETRA);42
+Toxóide Tetânico;43
+Tríplice Acelular (DTPa);44
+Tríplice Bacteriana (DTP);45
+Tríplice Viral (SCR);46
+Tríplice Viral (campanha) (SCR);47
+Tríplice Viral (homens campanha) (SCR);48
+Tríplice Viral (homens) (SCR);49
+Tríplice Viral (implantação) (SRC);50
+Tríplice Viral (mulheres idade fértil camp) (SCR);51
+Tríplice Viral (mulheres idade fértil) (SCR);52
+Tríplice Viral (seguimento) (SRC);53
+Imunoglobulina humana anti-Hepatite B (IGHAHB);54
+Imunoglobulina humana anti-Rábica (IGHR);55
+Imunoglobulina humana anti-Tetânica (IGHAT);56
+Imunoglobulina humana anti-Varicela Zóster (IGHVZ);57
+Soro anti-Aracnídico (AC);58
+Soro anti-Botrópico (BO);59
+Soro anti-Botrópico-Crotálico (BC);60
+Soro anti-Botrópico-Laquético (BL);61
+Soro anti-Botulínico (BTU);62
+Soro anti-Crotálico (CR);63
+Soro anti-Diftérico (SAD);64
+Soro anti-Elapídico (LP);65
+Soro anti-Escorpiônico (ES);66
+Soro anti-Laquético;67
+Soro anti-Latrodectus (LT);68
+Soro anti-Lonomia (LN);69
+Soro anti-Loxocélico (LX);70
+Soro anti-Rábico (RB);71
+Soro anti-Tetânico (SAT);72
+Cólera;73
+Esq.Seq. VIP/VOP;74
+Penta inativada (DTPa/Hib/Vip);75
+Tetraviral (sarampo, rubéola, caxumbae varicela);76
+HPV Quadrivalente - Feminino;77
+HPV Quadrivalente - Masculino;78
+dT/dTpa Gestante;79
+HEPATITE A, B RECOMBINANTE;80
+Rotavírus pentavalente;81
+Quadrupla viral;82
+Meningocócica ACYW1325;83
+HPV;84
+dTpa;85
