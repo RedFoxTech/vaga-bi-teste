@@ -1,3 +1,17 @@
+Essa branch contém meus arquivos de envio para do Teste de BI da RedFox. 
+Foi utilizado o dataset Banco de Preços em Saúde 2017, disponível no link http://www.saude.gov.br/gestao-do-sus/economia-da-saude/banco-de-precos-em-saude/bases-anuais-compiladas
+
+Estão inclusos o arquivo .pbix com a dashboard interativa, o arquivo .xlsx com o dataset e as alterações feitas por mim (Coluna com fill vermelho) e um .pdf da visualização, caso seja interessante.
+
+
+A primeira coisa que pensei foi a quantidade de itens comprados e quanto foi gasto nesse ano. A partir daí, parti para ver quanto é gasto por mês, e quais são os estados que mais gastam.
+Logo depois, quis saber quais os fabricantes que mais vendem para o governo e quais os itens mais comprados. 
+Vendo que a maior parte dos itens comprados são remédios, fiquei curioso em saber quantos deles são ou não genéricos.
+
+
+Peço que me avisem assim que receberem o pull request.
+
+
 # Teste de Business Intelligence
 
 Olá, tudo bem?
